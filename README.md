@@ -1,2 +1,23 @@
-# marketpulse
-MarketPulse, a reddit sentiment tracker for stock tickers
+# MarketPulse
+
+MarketPulse, a full-stack web application for anayzling stock ticker sentiments from Reddit
+
+# Goals
+
+- Build a project that provides users a tool for stock anaylsis
+- See how a stock historically performs over time compared to user sentiment
+
+# Planned Technologies
+
+- Python
+- FastAPI
+- PostgreSQL
+- React
+- Typescript
+- Git/Github
+
+# Current Status
+
+In Development
+
+
