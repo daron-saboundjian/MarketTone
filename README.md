@@ -18,7 +18,7 @@ MarketPulse, a full-stack web application for anayzling stock ticker sentiments 
 
 # Current Status
 
-In Development \\
+In Development  
 This project is being used as a tool for learning, but nonetheless exciting features are to come.
 
 
