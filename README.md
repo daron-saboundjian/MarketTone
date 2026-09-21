@@ -1,6 +1,6 @@
 # MarketTone
 
-MarketTone, a full-stack web application for anayzling stock ticker sentiments from Reddit
+MarketTone, a full-stack web application for analyzing stock ticker sentiments from Reddit
 
 # Goals
 
