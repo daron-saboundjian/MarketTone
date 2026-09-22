@@ -1,7 +1,4 @@
-Tickers = ["NVDA", "AAPL", "GOOG"]
-Companies = ["Nvidia", "Apple", "Google"]
-Prices = [190.40, 290.25, 300.10]
-
+from stock_utils import format_stock
 
 
 stocks = {
@@ -25,5 +22,6 @@ stocks = {
 }
 
 for ticker in stocks:
-    print(f'Ticker {ticker} of {stocks[ticker]["company"]} is trading at ${stocks[ticker]["price"]:.2f}')
+    result = format_stock(ticker, stocks[ticker]["price"])
+    print(result)
 
